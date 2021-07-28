@@ -1,6 +1,6 @@
 <a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://www.breakthroughnews.org/">Breakthrough News</a> podcasts.<br>
 
-<img src="https://github.com/leopheard/Breakthroughnews/blob/master/resources/media/1.jpg" width="400" height="400" alt="Breakthrough News"><br>
+<img src="https://github.com/leopheard/BreakthroughNews/blob/master/resources/media/icon.jpg?raw=true" width="400" height="400" alt="Breakthrough News"><br>
 
 The following Breakthrough News podcasts contained are:<br>
 - <a href="https://linktr.ee/raniakhalek">Rania Khalek Dispatches</a><br>
