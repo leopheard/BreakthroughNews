@@ -11,15 +11,15 @@ def main_menu():
         {
             'label': plugin.get_string(30001), 
             'path': plugin.url_for('episodes1'),
-            'thumbnail': "https://storage.buzzsprout.com/variants/3ny3yresi3694lge2ji2aisxq7vz/f81607a3cd537406cf0cf506c726bfe2824c5e584c9e9dc5e04e42436c820a79.jpg"},
+            'thumbnail': "https://github.com/leopheard/BreakthroughNews/raw/master/resources/media/1.jpg?raw=true"},
         {
             'label': plugin.get_string(30002),
             'path': plugin.url_for('episodes2'),
-            'thumbnail': "https://github.com/leopheard/ShadowProof/blob/master/resources/media/1.jpg?raw=true"},
+            'thumbnail': "https://github.com/leopheard/BreakthroughNews/raw/master/resources/media/2.jpg?raw=true"},
         {
             'label': plugin.get_string(30003), 
             'path': plugin.url_for('episodes3'),
-            'thumbnail': "https://i1.sndcdn.com/avatars-Tiohp0BVzNTdhRn1-aZ6Iqg-original.jpg"},
+            'thumbnail': "https://github.com/leopheard/BreakthroughNews/raw/master/resources/media/3.jpg?raw=true"},
     ]
     return items
 

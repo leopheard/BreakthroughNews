@@ -9,7 +9,7 @@ The following Breakthrough News podcasts contained are:<br>
 
 <a href="https://open.spotify.com/show/5N9wxQJwCxNmtFKCzY1iob?si=V73gxkLgSui_aIRVTLagXg">Rania Khalek Dispatches</a> aims for insight, analysis, investigations, interviews and on the ground reports on global issues from a left perspective.<br>
 
-<a href="https://breakthroughnews.org">"Unauthorized Disclosure"</a> is a weekly podcast hosted by Rania Khalek and Kevin Gosztola. It focuses on issues and topics that are overlooked or pushed aside by the more mainstream media. The hosts champion adversarial journalism. Guests featured are often rarely heard or unheard voices. Or they are voices who we think can benefit from a space to have conversations, which allow for dissent and the unpacking of unpopular ideas.<br>
+<a href="https://breakthroughnews.org">Unauthorized Disclosure</a> is a weekly podcast hosted by Rania Khalek and Kevin Gosztola. It focuses on issues and topics that are overlooked or pushed aside by the more mainstream media. The hosts champion adversarial journalism. Guests featured are often rarely heard or unheard voices. Or they are voices who we think can benefit from a space to have conversations, which allow for dissent and the unpacking of unpopular ideas.<br>
 
 <a href="https://breakthroughnews.org">The Punch Out</a> is your daily anti-capitalist news hit. Everything you need to know in 15-to-20 minutes, delivered daily, Monday-Friday at 5pm. Host Eugene Puryear breaks down what's in the headlines, what's behind them and what's not there but should be. It's a mix of analysis and reportage that's all you need on your way home, or wherever you find yourself at 5pm ET.<br>
 
