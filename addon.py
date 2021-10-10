@@ -15,7 +15,7 @@ def main_menu():
         {
             'label': plugin.get_string(30002),
             'path': plugin.url_for('episodes2'),
-            'thumbnail': "https://github.com/leopheard/BreakthroughNews/raw/master/resources/media/2.jpg?raw=true"},
+            'thumbnail': "https://github.com/leopheard/BreakthroughNews/raw/master/resources/media/5.jpg?raw=true"},
         {
             'label': plugin.get_string(30003), 
             'path': plugin.url_for('episodes3'),
