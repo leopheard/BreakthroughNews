@@ -34,8 +34,7 @@ def get_playable_podcast1(soup1):
         item = {
                 'url': link,
                 'title': title,
-                'thumbnail': "https://github.com/leopheard/BreakthroughNews/raw/master/resources/media/1.jpg?raw=true"},
-        {",
+                'thumbnail': "https://github.com/leopheard/BreakthroughNews/raw/master/resources/media/1.jpg?raw=true",
         }
         subjects.append(item)
     return subjects

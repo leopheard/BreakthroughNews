@@ -17,4 +17,4 @@ The following Breakthrough News podcasts contained are:<br>
 
 <b>^^^^ To install this addon ^^^^</b>, either use the <a href="https://www.tvaddons.co/github-browser-kodi/">Kodi Github installer</a> addon or save the .zip file downloaded from the Code > 'Download Zip' button (on this page above) to somewhere the Kodi can access (e.g. network drive or USB stick). Then on the Kodi, go to addons > install from zip file.<br>
 
-<br><a href="https://www.kodi.tv"><img src="https://github.com/leopheard/Audio-Podcasts/blob/master/resources/media/about--devices.jpg?raw=true">
+<a href="https://www.kodi.tv"><img src="https://github.com/leopheard/Audio-Podcasts/blob/master/resources/media/about--devices.jpg?raw=true">
